@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32b000d1-d207-4349-a517-044ba7b4e87c" name="Default Changelist" comment="" />
+    <list default="true" id="32b000d1-d207-4349-a517-044ba7b4e87c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/services/data_station.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/js/process_option.js" root0="SKIP_INSPECTION" />
@@ -30,6 +35,7 @@
     <setting file="file://$PROJECT_DIR$/js/dom_option.js" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1cxMRXiNgPvOvuUlFmSmXJ4WJjk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -54,7 +60,7 @@
       <updated>1591465783721</updated>
       <workItem from="1591465785258" duration="2357000" />
       <workItem from="1591468392751" duration="81000" />
-      <workItem from="1591578780406" duration="8331000" />
+      <workItem from="1591578780406" duration="8513000" />
     </task>
     <servers />
   </component>
